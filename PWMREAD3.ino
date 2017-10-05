@@ -1,7 +1,7 @@
 int rssiDur;
 
 void setup() {
-Serial.begin(9600);
+Serial.begin(57600);
 unsigned long rssiDur;
 float percentage;
 
